@@ -1,3 +1,5 @@
+-- Anyone who steal this is gay
+
 getgenv().SecureMode = true
 local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shlexware/Rayfield/main/source'))()
 
