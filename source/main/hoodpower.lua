@@ -10,6 +10,20 @@ local Window = Rayfield:CreateWindow({
        FolderName = nil, -- Create a custom folder for your hub/game
        FileName = "Hood Modded"
     },
+    Discord = {
+            Enabled = true,
+            Invite = "SZu4PDMHYs",
+            RememberJoins = true
+        },
+        KeySystem = true,
+        KeySettings = {
+            Title = "Da Chaos",
+            Subtitle = "Key System",
+            Note = "Join the discord (https://discord.gg/SZu4PDMHYs)",
+            FileName = "ChaosKey"
+            SaveKey = true,
+            GrabKeyFromSite = false,
+            Key = "u7qjdf9g2kfv"
  })
 
  local Tab = Window:CreateTab("Player", 4483362458) -- Title, Image
